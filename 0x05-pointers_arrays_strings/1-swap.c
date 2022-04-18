@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
   * swap_int - Swaps the values of two integers
   *
-  * @a: An integer to swap
+  * @a: An integer to swa
   * @b: Another integer to swap
   *
   * Return: void
